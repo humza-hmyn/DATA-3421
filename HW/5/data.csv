@@ -1,0 +1,101 @@
+ID,Age,Gender,Income,EducationLevel,HoursWorkedPerWeek,JobSatisfaction,Country,Height_cm,Weight_kg
+1,63,Female,33731,PhD,48,10,USA,170,63
+2,20,Male,29548,Master,28,10,USA,172,76
+3,46,Female,55691,Bachelor,60,5,Canada,172,95
+4,52,Female,44312,Master,40,2,UK,165,95
+5,56,Female,59631,Bachelor,51,6,Germany,160,71
+6,35,Female,20332,High School,51,6,Germany,167,73
+7,37,Male,60684,Bachelor,59,9,USA,187,79
+8,60,Male,88975,Bachelor,45,10,UK,175,109
+9,40,Male,49631,Bachelor,32,6,Germany,158,64
+10,51,Female,50512,Master,22,2,USA,178,74
+11,50,Female,52693,PhD,51,1,Canada,196,39
+12,67,Male,22070,Master,52,7,Canada,187,70
+13,65,Male,56392,Master,52,1,France,161,88
+14,27,Female,25919,High School,32,10,France,184,62
+15,50,Female,43585,Master,25,5,Canada,175,90
+16,64,Male,68643,PhD,23,7,USA,182,61
+17,50,Male,38972,Bachelor,57,5,USA,171,88
+18,65,Male,57519,Bachelor,25,6,France,165,67
+19,43,Female,65191,Master,22,4,UK,172,69
+20,37,Male,54181,Master,46,5,Canada,181,58
+21,32,Female,29436,High School,59,7,UK,170,44
+22,54,Female,45013,PhD,39,3,France,157,66
+23,50,Male,79391,Bachelor,37,6,UK,166,57
+24,34,Male,19624,PhD,39,3,USA,173,68
+25,22,Female,45863,High School,49,5,Germany,166,60
+26,67,Male,41718,High School,29,4,Germany,174,57
+27,21,Female,51811,Master,42,3,UK,147,38
+28,20,Female,61223,Master,22,5,Germany,177,67
+29,38,Female,74130,Bachelor,28,9,UK,177,68
+30,57,Female,45947,Master,38,1,Canada,157,93
+31,20,Male,62185,Bachelor,55,7,France,181,78
+32,38,Female,57496,Bachelor,59,9,UK,171,50
+33,65,Male,57115,High School,46,9,USA,165,85
+34,66,Female,41541,PhD,47,6,France,170,56
+35,25,Male,35040,Master,27,7,USA,174,71
+36,59,Male,33499,Master,27,6,Germany,166,67
+37,53,Female,38653,Bachelor,37,7,Canada,141,70
+38,46,Female,54825,High School,40,1,Germany,166,73
+39,70,Male,61414,Master,32,5,Canada,158,77
+40,56,Female,54852,Master,46,10,UK,160,50
+41,51,Female,41766,PhD,59,1,France,169,93
+42,39,Female,77090,Master,35,9,USA,175,87
+43,48,Male,72783,Master,59,1,UK,173,63
+44,45,Female,44690,Master,28,6,USA,178,72
+45,52,Female,37649,High School,46,7,Canada,171,55
+46,51,Female,51953,Master,36,7,USA,171,79
+47,30,Female,69009,PhD,22,9,Germany,176,71
+48,58,Male,54991,Bachelor,23,9,USA,178,63
+49,21,Male,58348,High School,59,5,Canada,185,75
+50,60,Female,46819,Master,20,5,USA,177,74
+51,23,Female,56844,PhD,33,1,France,185,74
+52,18,Male,73168,PhD,27,2,Canada,171,59
+53,29,Male,46405,Bachelor,26,10,France,168,55
+54,52,Female,52150,PhD,49,1,UK,154,86
+55,28,Male,53807,PhD,44,8,France,150,71
+56,40,Male,54256,PhD,58,6,UK,157,58
+57,31,Male,28822,High School,35,5,Canada,171,54
+58,36,Female,21847,Master,30,8,USA,159,82
+59,54,Male,34705,PhD,44,3,Canada,190,81
+60,33,Female,52519,Master,52,4,Germany,164,41
+61,61,Female,58308,PhD,40,6,Canada,165,75
+62,45,Male,42040,Bachelor,29,6,Canada,170,77
+63,62,Male,70659,Master,28,5,Germany,169,60
+64,48,Male,47852,PhD,20,3,Germany,181,58
+65,70,Female,50305,High School,53,7,Canada,163,93
+66,24,Male,47091,PhD,50,10,Germany,192,72
+67,63,Male,52010,Master,40,8,Canada,164,70
+68,69,Female,60567,High School,43,10,Canada,157,106
+69,44,Male,59985,PhD,38,5,Germany,173,92
+70,34,Male,36524,Bachelor,40,10,UK,163,78
+71,24,Female,72855,Bachelor,44,7,Germany,169,84
+72,32,Male,33575,High School,39,6,USA,156,71
+73,70,Male,51188,High School,45,8,UK,165,58
+74,57,Female,45884,PhD,26,4,USA,162,82
+75,29,Male,34265,PhD,22,10,Germany,173,48
+76,25,Male,48873,Bachelor,59,2,Germany,186,58
+77,19,Male,38888,High School,27,4,Canada,186,51
+78,61,Male,51094,Master,49,10,USA,159,87
+79,55,Female,56046,Bachelor,30,4,Germany,156,63
+80,43,Male,72079,PhD,27,9,Germany,182,75
+81,68,Female,54611,Bachelor,56,4,Germany,169,77
+82,38,Female,40832,PhD,36,6,USA,157,91
+83,67,Male,44126,PhD,27,7,Germany,162,66
+84,30,Male,52100,High School,49,8,France,157,88
+85,36,Male,51402,PhD,35,7,France,169,84
+86,35,Female,71894,High School,23,6,Germany,176,101
+87,19,Male,70930,High School,40,8,UK,159,51
+88,69,Male,44616,High School,53,2,USA,183,73
+89,62,Male,41770,Bachelor,59,2,Canada,169,70
+90,59,Female,11644,Master,54,7,UK,170,70
+91,66,Male,41766,PhD,32,7,France,177,78
+92,45,Male,35329,Bachelor,46,5,USA,164,73
+93,67,Male,44678,Bachelor,27,10,Canada,169,59
+94,40,Female,55874,Master,60,1,France,180,59
+95,21,Male,52658,High School,48,10,Germany,156,74
+96,21,Female,49550,High School,35,4,Germany,162,74
+97,29,Female,52994,Bachelor,24,9,Canada,166,51
+98,39,Female,48108,High School,56,6,USA,165,58
+99,43,Female,52955,Bachelor,59,4,Canada,182,55
+100,57,Male,1534,Bachelor,59,4,Canada,177,71
